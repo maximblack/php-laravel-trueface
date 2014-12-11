@@ -1,7 +1,7 @@
 ## Laravel PHP Framework
 
 A social network website for exchange personal information between peoples build in PHP using Laravel
-## [View website on http://trueface.yoyo.md](http://trueface.yoyo.md)
+## [View website on http://trueface.freebsd.md](http://trueface.freebsd.md)
 
 ### Install steps
 1. Import MySql dump (from root directory file named: sql-dump.sql) in your MySql server;
